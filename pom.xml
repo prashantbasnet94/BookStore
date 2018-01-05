@@ -41,10 +41,6 @@
 		</dependency>
 	</dependencies>
 
-<configuration>
-    <addResources>true</addResources>
-</configuration>
-
 	<build>
 		<plugins>
 			<plugin>
